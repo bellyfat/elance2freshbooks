@@ -1,0 +1,5 @@
+lxml==3.3.5
+python-dateutil==2.2
+refreshbooks==2.0
+requests==2.3.0
+six==1.7.3
